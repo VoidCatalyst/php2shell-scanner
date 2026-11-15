@@ -22,6 +22,18 @@ Both CVEs were confirmed exploitable by Trail of Bits against PHP 8.2–8.5 runn
 
 ---
 
+## Screenshots
+
+**Running on Kali Linux:**
+
+![PHP2Shell Scanner running on Kali Linux](screenshots/kali-scan.png)
+
+**Running on Windows (PowerShell):**
+
+![PHP2Shell Scanner running on Windows](screenshots/windows-scan.png)
+
+---
+
 ## Detection Methods
 
 The scanner runs up to five independent detection methods and merges their results through a confidence-weighted engine:
