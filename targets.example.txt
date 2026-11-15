@@ -1,0 +1,13 @@
+# targets.example.txt — Template for PHP2Shell Scanner target lists
+#
+# Copy this file to targets.txt and add your authorized targets.
+# targets.txt is in .gitignore and will never be committed to git.
+#
+# Format: one URL per line.
+# Blank lines and lines starting with '#' are ignored.
+#
+# Example targets (public PHP test/demo sites):
+http://testphp.vulnweb.com/
+http://php.testsparker.com/
+#
+# Your authorized targets go below:
